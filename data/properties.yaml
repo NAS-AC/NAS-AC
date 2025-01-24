@@ -1,0 +1,7 @@
+secret_key: 'django-insecure-6rff$ukcwd(3#c52qb6d5+3%1+lcet_npbo-eo$2)-!uvq@vg9'
+
+debug: True
+
+authentication:
+  app: 'core'
+  demo: 'test'
